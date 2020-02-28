@@ -1,0 +1,72 @@
+html {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-image: url(image/Imagedefond.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav-link {
+    color: white;
+}
+
+.carre1 {
+    background: black;
+    height: 577px;
+    background: rgba(0, 0, 0, 0.50);
+}
+
+.carre2 {
+    background: black;
+    height: 467px;
+    background: rgba(0, 0, 0, 0.50);
+}
+
+h1, p {
+    color: white;
+}
+
+.textselection {
+    color: white;
+}
+
+
+
+.navbar-nav {
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.serie-workstation {
+    font-size: 14px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.texteworkstation {
+    margin-top: 100px;
+}
+
+button {
+    border-radius: 40%;
+}
+
+.textordi {
+    font-size: 14px;
+}
+
+.avantagepartenariat {
+    font-size: 23px;
+}
+
+.avantageaprendreencompte {
+    font-size: 14px;
+}
+
+li .navitem:hover {
+    color: white;
+}
